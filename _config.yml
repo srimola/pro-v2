@@ -15,13 +15,13 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
+title:       "PRO - Producers and Remixers Organization at UCSD"
+keywords:    "PRO, producers and remixers org, producers and remixers organization, ucsd, edm, electronic music, proucsd, proclub"
+description: "The official website for the Producers and Remixers Organization at the University of California, San Diego. Created and maintained by Stefan Rimola."
+source_link: "https://github.com/srimola/pro-v2"
+favicon:     "/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-72597142-1"
 
 
 ### template colors, used site-wide via css ###

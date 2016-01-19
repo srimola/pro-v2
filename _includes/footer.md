@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+The official website of the Producers and Remixers Organization at the University of California, San Diego≥
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+Designed by [Stefan Rimola](http://steezmoney.com)
 
